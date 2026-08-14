@@ -38,3 +38,5 @@ markdown_extensions:
 
 nav:
   - Início: index.md
+  - Cursos:
+      - Estatística: https://raulgquartieri-physics-lecture-notes.github.io/statistics_course/
