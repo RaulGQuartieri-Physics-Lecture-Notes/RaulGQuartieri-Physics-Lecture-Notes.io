@@ -1,0 +1,40 @@
+site_name: RaulGQuartieri Physics Lecture Notes
+site_description: >-
+  Índice de cursos e material didático de Física organizados por
+  Raul G. Quartieri.
+site_url: https://raulgquartieri-physics-lecture-notes.github.io
+repo_url: https://github.com/RaulGQuartieri-Physics-Lecture-Notes/RaulGQuartieri-Physics-Lecture-Notes.io
+site_author: Raul G. Quartieri
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Início: index.md
