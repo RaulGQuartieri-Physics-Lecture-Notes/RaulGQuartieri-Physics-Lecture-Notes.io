@@ -11,8 +11,7 @@ theme:
   language: pt-BR
   custom_dir: overrides
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.footer
   palette:
     - scheme: slate
       primary: black
