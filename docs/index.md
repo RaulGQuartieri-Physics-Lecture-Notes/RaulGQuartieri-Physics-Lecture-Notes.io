@@ -1,17 +1,8 @@
-# RaulGQuartieri Physics Lecture Notes
+# Raul G Quartieri - Physics Lecture Notes
 
 ## Sobre mim
 
-Sou mestre em Física Teórica e doutorando em Altas Energias. Este site reúne
-o material didático e os cursos que venho organizando.
+Tenho Graduação e mestrado em Física Teórica pela Universidade de Brasília (UnB) e sou doutorando em Altas Energias experimental pelo Centro Brasileiro de Pesquisas Físicas (CBPF).
 
 
-<div class="cta-container" markdown>
-
-## Precisa de ajuda com Física?
-
-Aulas para Graduação, Vestibular e Concursos.
-
-[Seguir no Instagram](https://www.instagram.com/prof.raulquartieri/){ .md-button .md-button--primary }
-
-</div>
+Este site reúne o material didático e os cursos que venho organizando.
