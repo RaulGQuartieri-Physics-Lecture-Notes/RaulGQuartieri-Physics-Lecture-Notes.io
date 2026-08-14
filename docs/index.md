@@ -1,4 +1,4 @@
-# Raul G Quartieri - Physics Lecture Notes
+# Raul G. Quartieri - Physics Lecture Notes
 
 ## Sobre mim
 
